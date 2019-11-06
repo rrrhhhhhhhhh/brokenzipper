@@ -151,6 +151,10 @@ ul.dashed > li::before {
 	padding-top:20px;
 }
 
+.bio {
+  padding-left: 37px;
+}
+
 .container {
 	width: 100%;
 	display:flex;
@@ -404,3 +408,4 @@ video {
 
 
 }
+
