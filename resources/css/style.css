@@ -22,13 +22,13 @@ a {
 }
 
 a:hover{
-	color: blue;
+	color: #DA70D6;
 	text-decoration: none;
-	border-bottom:1px blue solid;
+	border-bottom:1px #DA70D6 solid;
 }
 
 a:visited{
-	color:black;
+	color: #DA70D6;
 	text-decoration: none;
 }
 
