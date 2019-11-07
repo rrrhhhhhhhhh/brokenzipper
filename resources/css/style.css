@@ -1,3 +1,7 @@
+
+
+
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
@@ -13,7 +17,7 @@ body {
 
 
 a {
-	color: #49fb35 !important;
+	color: #DA70D6 !important;
 	text-decoration: none;
 }
 
@@ -54,6 +58,10 @@ a:visited{
 
 img {
 	width: auto;
+}
+
+#bz_logo {
+  padding-left: 37px;
 }
 
 
@@ -206,6 +214,7 @@ ul.dashed > li::before {
 .year {
 	font-size:15px;
 	margin-top:10px;
+  color: #DA70D6;
 }
 
 .desc {
@@ -408,4 +417,3 @@ video {
 
 
 }
-
