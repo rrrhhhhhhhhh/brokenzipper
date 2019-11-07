@@ -128,7 +128,7 @@ ul.dashed > li {
 
 ul.dashed > li::before {
     content: "–";
-    margin-left: -15px;
+    margin-left: 15px;
 }
 
 #work {
